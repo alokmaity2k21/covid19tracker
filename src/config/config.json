@@ -1,0 +1,4 @@
+{
+    "WORLD_API":"https://corona.lmao.ninja/v2/countries",
+    "INDIA_API":"https://api.covid19india.org/data.json"
+}
